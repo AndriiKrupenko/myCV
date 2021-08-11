@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
 }
 
@@ -151,7 +151,8 @@ img {
 
 /* Education */
 
-.my-education-section {
+.my-education-section,
+.languages {
   margin: 45px 0 0 0;
 }
 
